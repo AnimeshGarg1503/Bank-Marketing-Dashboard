@@ -147,6 +147,7 @@ Feel free to reach out for any questions or contributions:
   - **GitHub**: [AnimeshGarg1503](https://www.github.com/animeshgarg1503)
   - **Tableau Profile**: [Animesh's Tableau](https://public.tableau.com/app/profile/animesh.garg/vizzes)
   - **LinkedIn**: [Animesh's LinkedIn](https://www.linkedin.com/in/animeshgarg153)
+  - **Flaticon**: All the images were sourced from [Flaticon](https://www.flaticon.com)
 
 
 
